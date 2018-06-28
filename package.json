@@ -1,0 +1,20 @@
+{
+  "name": "deployd_heroku",
+  "version": "0.0.1",
+  "description": "deployd-heroku",
+  "keywords": [],
+  "homepage": "",
+  "author": "daveamato",
+  "contributors": [],
+  "dependencies": {
+    "deployd": ">= 0"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.2.x"
+  },
+  "license": "MIT"
+}
